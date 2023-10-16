@@ -40,8 +40,14 @@ set fish_greeting "󰣇 Osmait 󱘗  󰛦  
 
 "
 
+
+# Iniciar el agente SSH y redirigir la salida a /dev/null
+
+
 if status is-interactive
 
+    eval (ssh-agent -c) >/dev/null 2>&1
+    ssh-add ~/.ssh/osmait >/dev/null 2>&1
     set -U fish_key_bindings fish_vi_key_bindings
     function fish_prompt
         fish_mode_prompt
