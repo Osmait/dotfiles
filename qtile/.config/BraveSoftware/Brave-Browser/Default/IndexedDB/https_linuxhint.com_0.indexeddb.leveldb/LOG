@@ -1,0 +1,7 @@
+2023/04/29-00:58:45.347 7a7 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/29-00:58:45.347 7a7 Recovering log #3
+2023/04/29-00:58:45.348 7a7 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/000003.log 
+2023/04/29-00:58:49.366 2f226 Level-0 table #5: started
+2023/04/29-00:58:49.368 2f226 Level-0 table #5: 6594 bytes OK
+2023/04/29-00:58:49.371 2f226 Delete type=0 #3
+2023/04/29-00:58:49.371 2f226 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

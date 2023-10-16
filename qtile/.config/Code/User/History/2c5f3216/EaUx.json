@@ -1,0 +1,32 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "my store",
+            "database": "my_store",
+            "username": "osmait",
+            "password": "admin123"
+        }
+    ],
+    "files.associations": {
+        "uthash.h": "c",
+        "cstdlib": "c",
+        "containtduplicate.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "functional": "c",
+        "memory": "c",
+        "optional": "c",
+        "string_view": "c",
+        "system_error": "c",
+        "variant": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}

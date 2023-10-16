@@ -1,0 +1,15 @@
+2023/03/12-10:14:07.115 5d3 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.diagrams.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/12-10:14:07.115 5d3 Recovering log #4
+2023/03/12-10:14:07.121 5d3 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.diagrams.net_0.indexeddb.leveldb/000004.log 
+2023/03/12-19:24:04.490 5d4 Level-0 table #8: started
+2023/03/12-19:24:04.491 5d4 Level-0 table #8: 209 bytes OK
+2023/03/12-19:24:04.493 5d4 Delete type=0 #4
+2023/03/12-19:24:04.493 5d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/12-19:24:04.493 5d4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 140 : 1
+2023/03/12-19:24:04.493 5d4 Compacting 1@1 + 1@2 files
+2023/03/12-19:24:04.495 5d4 Generated table #9@1: 43 keys, 938 bytes
+2023/03/12-19:24:04.495 5d4 Compacted 1@1 + 1@2 files => 938 bytes
+2023/03/12-19:24:04.496 5d4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/12-19:24:04.496 5d4 Delete type=2 #5
+2023/03/12-19:24:04.496 5d4 Delete type=2 #8
+2023/03/12-19:24:04.497 5d4 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 140 : 1 .. (end); will stop at (end)

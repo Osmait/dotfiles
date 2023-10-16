@@ -1,0 +1,14 @@
+2023/04/02-15:05:08.602 4e1 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_f1tv.formula1.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/02-15:05:08.603 4e1 Recovering log #75
+2023/04/02-15:05:08.603 4e1 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_f1tv.formula1.com_0.indexeddb.leveldb/000075.log 
+2023/04/02-15:05:08.603 4e1 Delete type=2 #73
+2023/04/02-15:05:08.624 a82f Level-0 table #80: started
+2023/04/02-15:05:08.626 a82f Level-0 table #80: 2950 bytes OK
+2023/04/02-15:05:08.628 a82f Delete type=0 #75
+2023/04/02-15:05:08.628 a82f Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\x05' @ 906 : 1
+2023/04/02-15:05:08.628 a82f Compacting 1@0 + 1@1 files
+2023/04/02-15:05:08.630 a82f Generated table #81@0: 34 keys, 1529 bytes
+2023/04/02-15:05:08.630 a82f Compacted 1@0 + 1@1 files => 1529 bytes
+2023/04/02-15:05:08.632 a82f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/02-15:05:08.632 a82f Delete type=2 #80
+2023/04/02-15:05:08.632 a82f Manual compaction at level-0 from '\x00\x15\x00\x00\x05' @ 906 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,14 @@
+file:///home/osmait/Documents/Practice/jwtPractice/python/jwtPractice/jwtpractice/domain/user_repository.py {"mtime":1684526933614,"ctime":1684526676294,"size":297,"etag":"3aisb0n8p9i","orphaned":false,"typeId":""}
+from shader.config import Sesion
+
+class UserRepository:
+    def __init__(self):
+        self.db = Sesion()
+    
+    def find_all(self):
+        return self.db.query("SELECT * FROM users").all()
+        
+    def create(self, user):
+        self.db.add(user)
+        self.db.commit()
+        return user

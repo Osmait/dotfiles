@@ -1,0 +1,25 @@
+2023/05/18-15:11:01.484 51d Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_neetcode.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/18-15:11:01.484 51d Recovering log #237
+2023/05/18-15:11:01.484 51d Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_neetcode.io_0.indexeddb.leveldb/000237.log 
+2023/05/18-15:11:01.588 51e Manual compaction at level-0 from '\x00E\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00F\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/18-15:11:02.486 51f Level-0 table #243: started
+2023/05/18-15:11:02.488 51f Level-0 table #243: 4914 bytes OK
+2023/05/18-15:11:02.491 51f Delete type=0 #237
+2023/05/18-15:11:02.491 51d Manual compaction at level-0 from '\x00F\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00G\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/18-15:11:32.817 51f Level-0 table #245: started
+2023/05/18-15:11:32.819 51f Level-0 table #245: 9242 bytes OK
+2023/05/18-15:11:32.822 51f Delete type=0 #242
+2023/05/18-15:11:32.822 51d Manual compaction at level-0 from '\x00G\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00H\x00\x00\x00' @ 0 : 0; will stop at '\x00G\x00\x00\x05' @ 10064 : 1
+2023/05/18-15:11:32.822 51d Compacting 1@0 + 1@1 files
+2023/05/18-15:11:32.824 51d Generated table #246@0: 70 keys, 4894 bytes
+2023/05/18-15:11:32.824 51d Compacted 1@0 + 1@1 files => 4894 bytes
+2023/05/18-15:11:32.826 51d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/18-15:11:32.826 51d Delete type=2 #245
+2023/05/18-15:11:32.826 51d Manual compaction at level-0 from '\x00G\x00\x00\x05' @ 10064 : 1 .. '\x00H\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/18-15:12:12.776 51d Compacting 1@1 + 1@2 files
+2023/05/18-15:12:12.780 51d Generated table #247@1: 53 keys, 4877 bytes
+2023/05/18-15:12:12.780 51d Compacted 1@1 + 1@2 files => 4877 bytes
+2023/05/18-15:12:12.782 51d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/18-15:12:12.782 51d Delete type=2 #246
+2023/05/18-15:12:12.782 51d Delete type=2 #240
+2023/05/18-15:12:12.782 51d Delete type=2 #243

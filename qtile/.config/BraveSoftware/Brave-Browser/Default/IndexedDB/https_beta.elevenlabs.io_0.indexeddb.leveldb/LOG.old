@@ -1,0 +1,14 @@
+2023/05/13-20:14:27.418 6df Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_beta.elevenlabs.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/13-20:14:27.418 6df Recovering log #13
+2023/05/13-20:14:27.418 6df Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_beta.elevenlabs.io_0.indexeddb.leveldb/000013.log 
+2023/05/13-20:14:27.418 6df Delete type=2 #11
+2023/05/13-20:14:27.454 19831 Level-0 table #18: started
+2023/05/13-20:14:27.456 19831 Level-0 table #18: 6719 bytes OK
+2023/05/13-20:14:27.457 19831 Delete type=0 #13
+2023/05/13-20:14:27.457 6e0 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 264 : 1
+2023/05/13-20:14:27.457 6e0 Compacting 1@0 + 1@1 files
+2023/05/13-20:14:27.459 6e0 Generated table #19@0: 24 keys, 1017 bytes
+2023/05/13-20:14:27.459 6e0 Compacted 1@0 + 1@1 files => 1017 bytes
+2023/05/13-20:14:27.461 6e0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/13-20:14:27.461 6e0 Delete type=2 #18
+2023/05/13-20:14:27.461 6e0 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 264 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

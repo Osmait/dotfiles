@@ -1,0 +1,6 @@
+2023/05/18-14:48:44.496 51d Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/18-14:48:44.496 51d Recovering log #101
+2023/05/18-14:48:44.506 51d Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000101.log 
+2023/05/18-14:49:03.890 51e Level-0 table #107: started
+2023/05/18-14:49:03.907 51e Level-0 table #107: 1805588 bytes OK
+2023/05/18-14:49:03.910 51e Delete type=0 #101

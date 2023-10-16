@@ -1,0 +1,6 @@
+2023/03/24-21:55:20.681 5ad Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_stackblitz.com_0.indexeddb.leveldb since it was missing.
+2023/03/24-21:55:20.685 5ad Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_stackblitz.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/24-21:55:50.707 5ad Level-0 table #5: started
+2023/03/24-21:55:50.708 5ad Level-0 table #5: 845 bytes OK
+2023/03/24-21:55:50.710 5ad Delete type=0 #3
+2023/03/24-21:55:50.710 5ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

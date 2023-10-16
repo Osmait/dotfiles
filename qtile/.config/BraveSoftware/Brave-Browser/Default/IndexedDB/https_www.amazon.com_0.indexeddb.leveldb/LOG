@@ -1,0 +1,7 @@
+2023/05/09-10:32:55.036 535 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/09-10:32:55.036 535 Recovering log #26
+2023/05/09-10:32:55.037 535 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/000026.log 
+2023/05/09-10:32:55.271 6b3a Level-0 table #32: started
+2023/05/09-10:32:55.273 6b3a Level-0 table #32: 485 bytes OK
+2023/05/09-10:32:55.275 6b3a Delete type=0 #26
+2023/05/09-10:32:55.275 535 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

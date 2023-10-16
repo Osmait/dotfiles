@@ -1,0 +1,15 @@
+2023/05/13-15:14:02.863 6e0 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/13-15:14:02.863 6e0 Recovering log #4
+2023/05/13-15:14:02.863 6e0 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000004.log 
+2023/05/13-15:14:25.433 6e0 Level-0 table #8: started
+2023/05/13-15:14:25.436 6e0 Level-0 table #8: 41731 bytes OK
+2023/05/13-15:14:25.437 6e0 Delete type=0 #4
+2023/05/13-15:14:25.437 6e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/13-15:14:25.437 6e0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00Pz\x90h\x81xB\x00\x01J\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00.\x00s\x00c\x00d\x00n\x00.\x00c\x00o\x00/\x00i\x00m\x00a\x00g\x00e\x00/\x00a\x00b\x006\x007\x006\x005\x006\x003\x000\x000\x000\x000\x005\x00f\x001\x00f\x008\x008\x002\x008\x008\x006\x00c\x002\x009\x001\x00d\x006\x000\x001\x00b\x001\x000\x008\x001\x004\x007\x004\x00e\x001' @ 1294 : 1
+2023/05/13-15:14:25.437 6e0 Compacting 1@1 + 1@2 files
+2023/05/13-15:14:25.447 6e0 Generated table #9@1: 231 keys, 28600 bytes
+2023/05/13-15:14:25.447 6e0 Compacted 1@1 + 1@2 files => 28600 bytes
+2023/05/13-15:14:25.449 6e0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/13-15:14:25.449 6e0 Delete type=2 #5
+2023/05/13-15:14:25.449 6e0 Delete type=2 #8
+2023/05/13-15:14:25.449 6e0 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00Pz\x90h\x81xB\x00\x01J\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00.\x00s\x00c\x00d\x00n\x00.\x00c\x00o\x00/\x00i\x00m\x00a\x00g\x00e\x00/\x00a\x00b\x006\x007\x006\x005\x006\x003\x000\x000\x000\x000\x005\x00f\x001\x00f\x008\x008\x002\x008\x008\x006\x00c\x002\x009\x001\x00d\x006\x000\x001\x00b\x001\x000\x008\x001\x004\x007\x004\x00e\x001' @ 1294 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2023/05/19-18:43:58.301 3 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2023/05/19-18:43:58.307 3 Recovering log #936
+2023/05/19-18:43:58.308 3 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000936.log 
+2023/05/19-18:44:19.017 3 Level-0 table #940: started
+2023/05/19-18:44:19.039 3 Level-0 table #940: 21485 bytes OK
+2023/05/19-18:44:19.042 3 Delete type=0 #936
+2023/05/19-18:44:19.042 3 Compacting 4@0 + 1@1 files
+2023/05/19-18:44:19.076 3 Generated table #941@0: 42479 keys, 757251 bytes
+2023/05/19-18:44:19.076 3 Compacted 4@0 + 1@1 files => 757251 bytes
+2023/05/19-18:44:19.078 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/19-18:44:19.078 3 Delete type=2 #935
+2023/05/19-18:44:19.078 3 Delete type=2 #940
+2023/05/19-18:44:19.078 3 Delete type=2 #931
+2023/05/19-18:44:19.078 3 Delete type=2 #933
+2023/05/19-18:44:19.078 3 Delete type=2 #937

@@ -1,0 +1,6 @@
+2023/05/01-21:56:56.451 66f Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.betcris.do_0.indexeddb.leveldb since it was missing.
+2023/05/01-21:56:56.455 66f Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.betcris.do_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/01-21:57:00.529 1a96a Level-0 table #5: started
+2023/05/01-21:57:00.531 1a96a Level-0 table #5: 1567 bytes OK
+2023/05/01-21:57:00.533 1a96a Delete type=0 #3
+2023/05/01-21:57:00.533 1a96a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

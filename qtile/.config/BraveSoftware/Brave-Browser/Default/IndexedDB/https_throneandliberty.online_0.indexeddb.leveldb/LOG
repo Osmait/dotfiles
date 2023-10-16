@@ -1,0 +1,7 @@
+2023/04/06-13:30:10.451 4e6 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_throneandliberty.online_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/06-13:30:10.452 4e6 Recovering log #3
+2023/04/06-13:30:10.452 4e6 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_throneandliberty.online_0.indexeddb.leveldb/000003.log 
+2023/04/06-13:30:54.457 4e7 Level-0 table #5: started
+2023/04/06-13:30:54.458 4e7 Level-0 table #5: 834 bytes OK
+2023/04/06-13:30:54.460 4e7 Delete type=0 #3
+2023/04/06-13:30:54.460 4e7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

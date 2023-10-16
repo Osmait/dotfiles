@@ -1,0 +1,6 @@
+2023/05/10-21:34:44.618 525 Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_acrobat.adobe.com_0.indexeddb.leveldb since it was missing.
+2023/05/10-21:34:44.622 525 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_acrobat.adobe.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/10-21:36:16.857 525 Level-0 table #5: started
+2023/05/10-21:36:16.859 525 Level-0 table #5: 875 bytes OK
+2023/05/10-21:36:16.861 525 Delete type=0 #3
+2023/05/10-21:36:16.862 525 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

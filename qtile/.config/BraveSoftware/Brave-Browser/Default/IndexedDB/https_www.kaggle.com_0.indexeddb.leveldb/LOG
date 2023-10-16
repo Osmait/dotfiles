@@ -1,0 +1,25 @@
+2023/04/21-14:49:17.405 55d Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/21-14:49:17.405 55d Recovering log #13
+2023/04/21-14:49:17.406 55d Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/000013.log 
+2023/04/21-14:49:17.415 561 Level-0 table #18: started
+2023/04/21-14:49:17.417 561 Level-0 table #18: 21667 bytes OK
+2023/04/21-14:49:17.421 561 Delete type=0 #13
+2023/04/21-14:49:17.421 561 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/21-14:49:50.223 55d Compacting 1@1 + 1@2 files
+2023/04/21-14:49:50.227 55d Generated table #19@1: 46 keys, 4058 bytes
+2023/04/21-14:49:50.227 55d Compacted 1@1 + 1@2 files => 4058 bytes
+2023/04/21-14:49:50.229 55d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/21-14:49:50.229 55d Delete type=2 #15
+2023/04/21-14:49:50.229 55d Delete type=2 #18
+2023/04/21-18:20:36.763 55e Level-0 table #21: started
+2023/04/21-18:20:36.765 55e Level-0 table #21: 11508 bytes OK
+2023/04/21-18:20:36.768 55e Delete type=0 #17
+2023/04/21-18:20:36.768 55e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/21-18:20:36.768 55e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x010\x00G\x00l\x00o\x00b\x00a\x00l\x00!\x001\x00:\x009\x001\x008\x005\x007\x003\x007\x003\x002\x007\x008\x001\x00:\x00w\x00e\x00b\x00:\x00a\x005\x001\x00c\x006\x009\x002\x00b\x000\x002\x00f\x00b\x00e\x005\x005\x005\x00f\x001\x008\x007\x002\x004' @ 580 : 1
+2023/04/21-18:20:36.768 55e Compacting 1@1 + 1@2 files
+2023/04/21-18:20:36.771 55e Generated table #22@1: 40 keys, 3904 bytes
+2023/04/21-18:20:36.771 55e Compacted 1@1 + 1@2 files => 3904 bytes
+2023/04/21-18:20:36.773 55e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/21-18:20:36.773 55e Delete type=2 #19
+2023/04/21-18:20:36.773 55e Delete type=2 #21
+2023/04/21-18:20:36.773 55e Manual compaction at level-1 from '\x00\x03\x01\x02\x010\x00G\x00l\x00o\x00b\x00a\x00l\x00!\x001\x00:\x009\x001\x008\x005\x007\x003\x007\x003\x002\x007\x008\x001\x00:\x00w\x00e\x00b\x00:\x00a\x005\x001\x00c\x006\x009\x002\x00b\x000\x002\x00f\x00b\x00e\x005\x005\x005\x00f\x001\x008\x007\x002\x004' @ 580 : 1 .. (end); will stop at (end)

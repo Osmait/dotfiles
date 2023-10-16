@@ -1,0 +1,15 @@
+2023/05/15-22:42:06.187 543 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pro.codely.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/15-22:42:06.188 543 Recovering log #19
+2023/05/15-22:42:06.190 543 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pro.codely.com_0.indexeddb.leveldb/000019.log 
+2023/05/15-22:44:33.533 544 Level-0 table #24: started
+2023/05/15-22:44:33.536 544 Level-0 table #24: 75066 bytes OK
+2023/05/15-22:44:33.538 544 Delete type=0 #19
+2023/05/15-22:44:33.538 544 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/15-22:44:33.538 544 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00s\x00_\x009\x005\x002\x008\x00X\x00s\x00I\x00m\x00p\x00Y\x00m\x008\x00x\x004\x00E\x00p\x004\x00g\x005\x00S\x000\x00y\x00b\x008\x008\x004\x00w\x00p\x00-\x00Y\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 17540 : 1
+2023/05/15-22:44:33.538 544 Compacting 1@1 + 1@2 files
+2023/05/15-22:44:33.540 544 Generated table #25@1: 21 keys, 2220 bytes
+2023/05/15-22:44:33.540 544 Compacted 1@1 + 1@2 files => 2220 bytes
+2023/05/15-22:44:33.542 544 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/15-22:44:33.542 544 Delete type=2 #24
+2023/05/15-22:44:33.542 544 Delete type=2 #21
+2023/05/15-22:44:33.542 544 Manual compaction at level-1 from '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00s\x00_\x009\x005\x002\x008\x00X\x00s\x00I\x00m\x00p\x00Y\x00m\x008\x00x\x004\x00E\x00p\x004\x00g\x005\x00S\x000\x00y\x00b\x008\x008\x004\x00w\x00p\x00-\x00Y\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 17540 : 1 .. (end); will stop at (end)

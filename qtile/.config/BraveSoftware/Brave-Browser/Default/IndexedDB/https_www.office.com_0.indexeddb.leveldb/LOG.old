@@ -1,0 +1,6 @@
+2023/05/11-10:24:00.788 688 Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb since it was missing.
+2023/05/11-10:24:00.793 688 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/11-10:24:10.609 689 Level-0 table #5: started
+2023/05/11-10:24:10.610 689 Level-0 table #5: 35274 bytes OK
+2023/05/11-10:24:10.612 689 Delete type=0 #3
+2023/05/11-10:24:10.612 689 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

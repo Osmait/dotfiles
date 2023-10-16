@@ -1,0 +1,24 @@
+name: Run  tests
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Start database
+        run: docker-compose up -d
+
+      - name: Set up Go 1.x
+        with:
+          go-version: ^1.19
+        id: go
+
+      - name: Test
+        run: make test

@@ -1,0 +1,6 @@
+2023/03/18-22:29:25.492 c7f Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.carlrippon.com_0.indexeddb.leveldb since it was missing.
+2023/03/18-22:29:25.498 c7f Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.carlrippon.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/18-22:29:57.945 c7f Level-0 table #5: started
+2023/03/18-22:29:57.946 c7f Level-0 table #5: 2081 bytes OK
+2023/03/18-22:29:57.948 c7f Delete type=0 #3
+2023/03/18-22:29:57.948 c7f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

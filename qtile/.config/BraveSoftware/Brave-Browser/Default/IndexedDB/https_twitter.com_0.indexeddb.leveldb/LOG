@@ -1,0 +1,25 @@
+2023/05/17-14:51:50.705 562 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/17-14:51:50.705 562 Recovering log #121
+2023/05/17-14:51:50.710 562 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000121.log 
+2023/05/17-17:43:01.604 563 Level-0 table #127: started
+2023/05/17-17:43:01.696 563 Level-0 table #127: 3158689 bytes OK
+2023/05/17-17:43:01.699 563 Delete type=0 #121
+2023/05/17-17:43:33.799 563 Level-0 table #129: started
+2023/05/17-17:43:33.801 563 Level-0 table #129: 428 bytes OK
+2023/05/17-17:43:33.802 563 Delete type=0 #126
+2023/05/17-17:43:33.802 563 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1e\x00u\x00s\x00e\x00r\x00:\x003\x006\x002\x000\x005\x003\x000\x006\x009\x002\x00:\x00r\x00w\x00e\x00b\x00.\x00s\x00e\x00e\x00n\x00i\x00d\x00s\x00v\x002' @ 27042 : 1
+2023/05/17-17:43:33.802 563 Compacting 1@0 + 1@1 files
+2023/05/17-17:43:33.814 563 Generated table #130@0: 271 keys, 30798 bytes
+2023/05/17-17:43:33.814 563 Compacted 1@0 + 1@1 files => 30798 bytes
+2023/05/17-17:43:33.815 563 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/17-17:43:33.815 563 Delete type=2 #129
+2023/05/17-17:43:33.815 563 Delete type=2 #127
+2023/05/17-17:43:33.816 563 Manual compaction at level-0 from '\x00\x01\x01\x02\x01\x1e\x00u\x00s\x00e\x00r\x00:\x003\x006\x002\x000\x005\x003\x000\x006\x009\x002\x00:\x00r\x00w\x00e\x00b\x00.\x00s\x00e\x00e\x00n\x00i\x00d\x00s\x00v\x002' @ 27042 : 1 .. (end); will stop at (end)
+2023/05/17-17:43:33.816 563 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x1a\x00d\x00e\x00v\x00i\x00c\x00e\x00:\x00r\x00w\x00e\x00b\x00.\x00a\x00r\x00t\x00i\x00c\x00l\x00e\x00D\x00o\x00m\x00a\x00i\x00n\x00s' @ 26444 : 1
+2023/05/17-17:43:33.816 563 Compacting 1@1 + 1@2 files
+2023/05/17-17:43:33.868 563 Generated table #131@1: 68 keys, 30180 bytes
+2023/05/17-17:43:33.868 563 Compacted 1@1 + 1@2 files => 30180 bytes
+2023/05/17-17:43:33.870 563 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/17-17:43:33.870 563 Delete type=2 #124
+2023/05/17-17:43:33.870 563 Delete type=2 #130
+2023/05/17-17:43:33.871 563 Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x1a\x00d\x00e\x00v\x00i\x00c\x00e\x00:\x00r\x00w\x00e\x00b\x00.\x00a\x00r\x00t\x00i\x00c\x00l\x00e\x00D\x00o\x00m\x00a\x00i\x00n\x00s' @ 26444 : 1 .. (end); will stop at (end)

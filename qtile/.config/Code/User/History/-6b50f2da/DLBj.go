@@ -1,0 +1,18 @@
+package find
+
+import "github.com/osmait/blog-go/internal/domain"
+
+type Find struct {
+	userRepository domain.UserRepositoy
+}
+
+func NewFind(userRepository domain.UserRepositoy) *Find {
+	return &Find{
+		userRepository: userRepository,
+	}
+}
+
+func (f *Find) FindByEmail(email string) (domain.User, error) {
+	return f.userRepository.FindByEmail(email)
+
+}

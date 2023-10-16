@@ -1,0 +1,7 @@
+2023/05/15-13:53:28.897 543 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/15-13:53:28.897 543 Recovering log #3
+2023/05/15-13:53:28.916 543 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2023/05/15-14:17:37.521 544 Level-0 table #5: started
+2023/05/15-14:17:37.541 544 Level-0 table #5: 1638578 bytes OK
+2023/05/15-14:17:37.545 544 Delete type=0 #3
+2023/05/15-14:17:37.546 544 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

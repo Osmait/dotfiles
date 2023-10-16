@@ -1,0 +1,6 @@
+2023/02/25-19:50:55.018 4c1 Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_community.brave.com_0.indexeddb.leveldb since it was missing.
+2023/02/25-19:50:55.023 4c1 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_community.brave.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/25-19:53:36.330 4c1 Level-0 table #5: started
+2023/02/25-19:53:36.332 4c1 Level-0 table #5: 4237 bytes OK
+2023/02/25-19:53:36.334 4c1 Delete type=0 #3
+2023/02/25-19:53:36.334 4c1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

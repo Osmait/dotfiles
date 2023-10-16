@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "2cc56e7f-125a-4f32-a97f-c921d89fe038",
+    "colId": "history",
+    "created": "2023-04-30T21:06:54.284Z",
+    "modified": "2023-04-30T21:07:08.234Z",
+    "response": {
+      "responseText": "",
+      "filePath": "",
+      "type": "html",
+      "headers": [
+        {
+          "name": "server",
+          "value": "Werkzeug/2.3.2 Python/3.10.10"
+        },
+        {
+          "name": "date",
+          "value": "Sun, 30 Apr 2023 21:07:08 GMT"
+        },
+        {
+          "name": "content-type",
+          "value": "text/html; charset=utf-8"
+        },
+        {
+          "name": "content-length",
+          "value": "4"
+        },
+        {
+          "name": "connection",
+          "value": "close"
+        }
+      ],
+      "cookies": [],
+      "testResults": [],
+      "url": "http://localhost:5000/api/user",
+      "status": 200,
+      "statusText": "OK",
+      "contentType": "text/html; charset=utf-8",
+      "contentLength": "4 Bytes",
+      "responseTimeText": "5 ms",
+      "responseTime": 5,
+      "responseSize": 4
+    }
+  }
+]

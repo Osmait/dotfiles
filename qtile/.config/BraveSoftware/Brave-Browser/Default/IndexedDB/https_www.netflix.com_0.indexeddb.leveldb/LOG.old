@@ -1,0 +1,33 @@
+2023/05/17-15:13:14.378 562 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/17-15:13:14.378 562 Recovering log #18
+2023/05/17-15:13:14.378 562 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000018.log 
+2023/05/17-18:09:53.321 563 Level-0 table #23: started
+2023/05/17-18:09:53.353 563 Level-0 table #23: 2811242 bytes OK
+2023/05/17-18:09:53.355 563 Delete type=0 #18
+2023/05/17-19:08:45.438 562 Compacting 1@1 + 1@2 files
+2023/05/17-19:08:45.449 562 Generated table #24@1: 50 keys, 14411 bytes
+2023/05/17-19:08:45.449 562 Compacted 1@1 + 1@2 files => 14411 bytes
+2023/05/17-19:08:45.451 562 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/17-19:08:45.451 562 Delete type=2 #23
+2023/05/17-19:08:45.451 562 Delete type=2 #20
+2023/05/17-21:01:41.315 563 Level-0 table #26: started
+2023/05/17-21:01:41.348 563 Level-0 table #26: 3010876 bytes OK
+2023/05/17-21:01:41.352 563 Delete type=0 #22
+2023/05/17-21:53:45.544 562 Compacting 1@1 + 1@2 files
+2023/05/17-21:53:45.550 562 Generated table #27@1: 53 keys, 18980 bytes
+2023/05/17-21:53:45.550 562 Compacted 1@1 + 1@2 files => 18980 bytes
+2023/05/17-21:53:45.552 562 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/17-21:53:45.552 562 Delete type=2 #24
+2023/05/17-21:53:45.552 562 Delete type=2 #26
+2023/05/17-23:11:43.974 563 Level-0 table #29: started
+2023/05/17-23:11:43.997 563 Level-0 table #29: 2218859 bytes OK
+2023/05/17-23:11:43.999 563 Delete type=0 #25
+2023/05/17-23:11:44.000 563 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/17-23:11:44.000 563 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 41637 : 1
+2023/05/17-23:11:44.000 563 Compacting 1@1 + 1@2 files
+2023/05/17-23:11:44.004 563 Generated table #30@1: 50 keys, 14242 bytes
+2023/05/17-23:11:44.004 563 Compacted 1@1 + 1@2 files => 14242 bytes
+2023/05/17-23:11:44.006 563 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/17-23:11:44.006 563 Delete type=2 #27
+2023/05/17-23:11:44.006 563 Delete type=2 #29
+2023/05/17-23:11:44.007 563 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 41637 : 1 .. (end); will stop at (end)

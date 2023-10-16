@@ -1,0 +1,6 @@
+2023/03/02-20:58:21.841 57e Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fotogramas.es_0.indexeddb.leveldb since it was missing.
+2023/03/02-20:58:21.846 57e Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fotogramas.es_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/02-20:58:54.375 57e Level-0 table #5: started
+2023/03/02-20:58:54.376 57e Level-0 table #5: 2822 bytes OK
+2023/03/02-20:58:54.378 57e Delete type=0 #3
+2023/03/02-20:58:54.378 57e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

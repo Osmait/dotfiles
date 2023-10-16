@@ -1,0 +1,6 @@
+2023/04/03-19:21:08.814 57e Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bestbuy.com_0.indexeddb.leveldb since it was missing.
+2023/04/03-19:21:08.818 57e Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bestbuy.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/03-19:22:00.354 57e Level-0 table #5: started
+2023/04/03-19:22:00.356 57e Level-0 table #5: 1290 bytes OK
+2023/04/03-19:22:00.358 57e Delete type=0 #3
+2023/04/03-19:22:00.358 57e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

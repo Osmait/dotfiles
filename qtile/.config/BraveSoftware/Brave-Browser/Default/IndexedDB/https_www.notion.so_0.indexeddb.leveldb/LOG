@@ -1,0 +1,13 @@
+2023/05/18-14:49:56.631 51d Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/18-14:49:56.631 51d Recovering log #65
+2023/05/18-14:49:56.632 51d Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000065.log 
+2023/05/18-14:49:56.859 51d Level-0 table #69: started
+2023/05/18-14:49:56.861 51d Level-0 table #69: 521 bytes OK
+2023/05/18-14:49:56.862 51d Delete type=0 #65
+2023/05/18-14:49:56.862 51d Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 26704 : 1
+2023/05/18-14:49:56.862 51d Compacting 1@0 + 1@1 files
+2023/05/18-14:49:56.864 51d Generated table #70@0: 7 keys, 471 bytes
+2023/05/18-14:49:56.864 51d Compacted 1@0 + 1@1 files => 471 bytes
+2023/05/18-14:49:56.865 51d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/18-14:49:56.866 51d Delete type=2 #69
+2023/05/18-14:49:56.866 51d Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 26704 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)

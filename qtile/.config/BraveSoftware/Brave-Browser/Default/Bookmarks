@@ -1,0 +1,1032 @@
+{
+   "checksum": "3f31676f300b45d5b0d321541baa523f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13310003286000000",
+            "date_last_used": "0",
+            "guid": "c0b21e50-7a4c-49f4-a029-13e65725e0f2",
+            "id": "5",
+            "name": "(1050) La Cartilla - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/channel/UCobbRQK0QYlri_fo2Lalsxg/videos"
+         }, {
+            "date_added": "13310174688000000",
+            "date_last_used": "0",
+            "guid": "60ee732c-c1e1-45ed-ae79-986646c1a7d0",
+            "id": "6",
+            "name": "SQL OnLine IDE",
+            "type": "url",
+            "url": "https://sqliteonline.com/"
+         }, {
+            "date_added": "13310193286000000",
+            "date_last_used": "0",
+            "guid": "62bd48b1-72fc-42b9-a830-24500e650788",
+            "id": "7",
+            "name": "(1082) NelsonCode - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/c/NelsonCode/playlists"
+         }, {
+            "date_added": "13310193298000000",
+            "date_last_used": "0",
+            "guid": "b0eb05a6-31de-4aa1-9c63-490c6d3d0922",
+            "id": "8",
+            "name": "(1082) Microframework Flask - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PL6W7ibpXPiORN5BAc7lwWTzCxxicHVWtD"
+         }, {
+            "date_added": "13310278683000000",
+            "date_last_used": "0",
+            "guid": "0c70b68d-03f7-4804-8900-02edafcb9326",
+            "id": "9",
+            "name": "DataEngineeringProject/architecture_diagram.png at master · damklis/DataEngineeringProject",
+            "type": "url",
+            "url": "https://github.com/damklis/DataEngineeringProject/blob/master/images/architecture_diagram.png"
+         }, {
+            "date_added": "13310278777000000",
+            "date_last_used": "0",
+            "guid": "844d8bfa-0e8e-4b42-b877-a38a02504cf2",
+            "id": "10",
+            "name": "(1094) 1.- Curso Django REST | INTRODUCCIÓN A DJANGO REST FRAMEWORK - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=MMFBD2Eoeuk&list=PLMbRqrU_kvbRI4PgSzgbh8XPEwC1RNj8F"
+         }, {
+            "date_added": "13310278830000000",
+            "date_last_used": "0",
+            "guid": "ba7bb323-e35c-4f32-80ea-82e65efd33ab",
+            "id": "11",
+            "name": "(1094) 5 Data Sources for Your Data Engineering Projects - Data Engineering Portfolio Part (1/5) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=LJkVvNWlO0g&t=1s"
+         }, {
+            "date_added": "13311140698000000",
+            "date_last_used": "0",
+            "guid": "bccfe003-7c49-4005-bb0b-51eeac25d869",
+            "id": "12",
+            "name": "Pomotrack - The Best Free Pomodoro Timer Online",
+            "type": "url",
+            "url": "https://www.pomotrack.com/"
+         }, {
+            "date_added": "13311492337000000",
+            "date_last_used": "0",
+            "guid": "77ba9aaa-94c2-42e8-806f-60aa0306d5bf",
+            "id": "13",
+            "name": "python-engineer/python-fun: Some fun and useful projects with Python",
+            "type": "url",
+            "url": "https://github.com/python-engineer/python-fun"
+         }, {
+            "date_added": "13311493906000000",
+            "date_last_used": "0",
+            "guid": "b973d09f-1574-40bf-bd9a-6a7f455e4cae",
+            "id": "14",
+            "name": "python-mini-projects/projects at master · Python-World/python-mini-projects",
+            "type": "url",
+            "url": "https://github.com/Python-World/python-mini-projects/tree/master/projects"
+         }, {
+            "date_added": "13312260910000000",
+            "date_last_used": "0",
+            "guid": "6f07424a-3dec-4ae3-8306-96c611dbd198",
+            "id": "15",
+            "name": "20 pretty CSS Menu Inspirations (with animations)",
+            "type": "url",
+            "url": "https://webdeasy.de/en/top-css-navigation-menus-en/"
+         }, {
+            "date_added": "13312314431000000",
+            "date_last_used": "0",
+            "guid": "2b5ea9d1-c577-4932-a5a4-0cc513be7c02",
+            "id": "16",
+            "name": "Recently viewed – Figma",
+            "type": "url",
+            "url": "https://www.figma.com/files/recent?fuid=874892696314757932"
+         }, {
+            "date_added": "13312326320000000",
+            "date_last_used": "0",
+            "guid": "8ac6d33a-640c-41ed-9fac-e57ff998e460",
+            "id": "17",
+            "name": "Namecheap",
+            "type": "url",
+            "url": "https://www.namecheap.com/domains/registration/results/?domain=saulbugos"
+         }, {
+            "date_added": "13312428857000000",
+            "date_last_used": "0",
+            "guid": "b4f53d0c-1005-4046-9cfc-d9f9076de5ba",
+            "id": "18",
+            "name": "The Go Programming Language",
+            "type": "url",
+            "url": "https://go.dev/"
+         }, {
+            "date_added": "13312523178000000",
+            "date_last_used": "0",
+            "guid": "eb322d9a-d86e-4da1-bd7c-23f817b1c937",
+            "id": "19",
+            "name": "curso_golang_platzi/src at main · osmandi/curso_golang_platzi",
+            "type": "url",
+            "url": "https://github.com/osmandi/curso_golang_platzi/tree/main/src"
+         }, {
+            "date_added": "13312787507000000",
+            "date_last_used": "0",
+            "guid": "1765b067-bc92-4a59-b648-f62fa1891d61",
+            "id": "20",
+            "name": "(1473) 5. ORMs Series: TypeORM - Migraciones - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=PjmJOnsXbvA"
+         }, {
+            "date_added": "13312866340000000",
+            "date_last_used": "0",
+            "guid": "0fd531b1-5fc5-49e0-a680-9b880c754ad8",
+            "id": "21",
+            "name": "Git Commit message Emoji",
+            "type": "url",
+            "url": "https://gist.github.com/parmentf/035de27d6ed1dce0b36a"
+         }, {
+            "date_added": "13312918084000000",
+            "date_last_used": "0",
+            "guid": "d0ee5975-18d2-48d3-baf2-59fc9926c4a6",
+            "id": "22",
+            "name": "FSou1/typescript-algorithms: 🔖 Algorithms and data structures implemented in TypeScript",
+            "type": "url",
+            "url": "https://github.com/FSou1/typescript-algorithms"
+         }, {
+            "date_added": "13313203271000000",
+            "date_last_used": "0",
+            "guid": "c69e1943-eb4c-487c-95ff-872269a2daa9",
+            "id": "23",
+            "name": "emirpasic/gods: GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",
+            "type": "url",
+            "url": "https://github.com/emirpasic/gods"
+         }, {
+            "date_added": "13313208025000000",
+            "date_last_used": "0",
+            "guid": "ff358883-ce90-4bd5-8d91-a396ad720842",
+            "id": "24",
+            "name": "Fiverr / Search Results for 'node js api'",
+            "type": "url",
+            "url": "https://www.fiverr.com/search/gigs?query=node%20js%20api&source=top-bar&acmpl=1&search_in=everywhere&search-autocomplete-original-term=api&search-autocomplete-available=true&search-autocomplete-type=suggest&search-autocomplete-position=7&ref_ctx_id=db6e7d6c2adf0271cbd2b8579e93d462"
+         }, {
+            "date_added": "13313212205000000",
+            "date_last_used": "0",
+            "guid": "b27b1d1c-525c-4f7b-b3e5-8d9538b1cc07",
+            "id": "25",
+            "name": "Instantly parse JSON in any language | quicktype",
+            "type": "url",
+            "url": "https://app.quicktype.io/"
+         }, {
+            "date_added": "13313213783000000",
+            "date_last_used": "0",
+            "guid": "7baa5bb2-419b-4c9f-ac34-8b5f8ebbf21e",
+            "id": "26",
+            "name": "Standard library - Go Packages",
+            "type": "url",
+            "url": "https://pkg.go.dev/std"
+         }, {
+            "date_added": "13313267894000000",
+            "date_last_used": "0",
+            "guid": "3f2743fe-95ad-4547-972c-d8894886b262",
+            "id": "27",
+            "name": "Lectura Adjectives",
+            "type": "url",
+            "url": "https://static.platzi.com/media/public/uploads/lectura-adjectives_d557f773-5cf1-41c6-a9ff-c483ec3bc8d0.pdf"
+         }, {
+            "date_added": "13313366165000000",
+            "date_last_used": "0",
+            "guid": "6374a84e-2ce5-4b51-9c44-99a77896f7c7",
+            "id": "28",
+            "name": "Open-Source UI elements - made with CSS and HTML",
+            "type": "url",
+            "url": "https://uiverse.io/"
+         }, {
+            "date_added": "13313374747000000",
+            "date_last_used": "0",
+            "guid": "234fb73f-4d10-4889-baa5-942e6401b4eb",
+            "id": "29",
+            "name": "Card by alexruix",
+            "type": "url",
+            "url": "https://uiverse.io/alexruix/gentle-crab-18"
+         }, {
+            "date_added": "13313950736000000",
+            "date_last_used": "0",
+            "guid": "844c0178-777f-41b0-b45b-ac1eaaadd3b5",
+            "id": "30",
+            "name": "Courses Dashboard | Wes Bos",
+            "type": "url",
+            "url": "https://courses.wesbos.com/account"
+         }, {
+            "date_added": "13314070511000000",
+            "date_last_used": "0",
+            "guid": "a465eb10-7c1b-4cc4-93e7-684381024fc4",
+            "id": "31",
+            "name": "Data-Structures-and-Algorithms/BinarySearch.go at master · ua-nick/Data-Structures-and-Algorithms",
+            "type": "url",
+            "url": "https://github.com/ua-nick/Data-Structures-and-Algorithms/blob/master/BinarySearch/BinarySearch.go"
+         }, {
+            "children": [ {
+               "date_added": "13314142291000000",
+               "date_last_used": "0",
+               "guid": "ad1edacf-1a46-4048-ab96-30ad17d5eda2",
+               "id": "33",
+               "name": "The Algorithms",
+               "type": "url",
+               "url": "https://github.com/TheAlgorithms"
+            }, {
+               "date_added": "13314142883000000",
+               "date_last_used": "0",
+               "guid": "cd8c672d-b921-4d5c-8cc6-9f0317a13207",
+               "id": "34",
+               "name": "https://community.turing.com/events/details/turing-latin-america-events-presents-jump-start-2022-11-29/purchased/778675e6de374ca8aceea54dd29b5008",
+               "type": "url",
+               "url": "https://community.turing.com/events/details/turing-latin-america-events-presents-jump-start-2022-11-29/purchased/778675e6de374ca8aceea54dd29b5008"
+            }, {
+               "date_added": "13314153390000000",
+               "date_last_used": "0",
+               "guid": "06f9e717-93cc-4e25-b6b1-7777bb2c7b44",
+               "id": "35",
+               "name": "lotusirous/go-concurrency-patterns: Concurrency patterns in Go",
+               "type": "url",
+               "url": "https://github.com/lotusirous/go-concurrency-patterns"
+            }, {
+               "date_added": "13314159501000000",
+               "date_last_used": "0",
+               "guid": "327fab48-7bbe-47d5-8239-92faf846074e",
+               "id": "36",
+               "name": "(1670) Microservice Architecture and System Design with Python & Kubernetes – Full Course - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=hmkF77F9TLw&t=6s"
+            }, {
+               "date_added": "13314160235000000",
+               "date_last_used": "0",
+               "guid": "173f9cba-e847-4c89-a4a8-95bd42075951",
+               "id": "37",
+               "name": "selikapro/hexArchGoGRPC",
+               "type": "url",
+               "url": "https://github.com/selikapro/hexArchGoGRPC"
+            }, {
+               "date_added": "13314594061000000",
+               "date_last_used": "13325299080357881",
+               "guid": "ebec75d3-0c63-4193-8c55-5e9e6d078521",
+               "id": "38",
+               "name": "BrandColors - official brand color hex codes",
+               "type": "url",
+               "url": "https://brandcolors.net/"
+            }, {
+               "date_added": "13314648700000000",
+               "date_last_used": "0",
+               "guid": "261ee24b-199d-452a-bcab-55182bb1524f",
+               "id": "39",
+               "name": "7 formas sencillas de liberar espacio en Ubuntu y Linux Mint￼ - It's FOSS en Español",
+               "type": "url",
+               "url": "https://es.itsfoss.com/liberar-espacio-ubuntu-linux/"
+            }, {
+               "date_added": "13315015506000000",
+               "date_last_used": "0",
+               "guid": "0857a9e0-48aa-4e2d-8702-5ad9da8a6d01",
+               "id": "40",
+               "name": "The Ultimate Docker Cheat Sheet | dockerlabs",
+               "type": "url",
+               "url": "https://dockerlabs.collabnix.com/docker/cheatsheet/"
+            }, {
+               "date_added": "13315015963000000",
+               "date_last_used": "0",
+               "guid": "f049e8fa-fd26-43f8-9b02-94a981166a4d",
+               "id": "41",
+               "name": "moncho/dry: dry - A Docker manager for the terminal @",
+               "type": "url",
+               "url": "https://github.com/moncho/dry"
+            }, {
+               "date_added": "13315199760000000",
+               "date_last_used": "13327251726915639",
+               "guid": "52ad9dcc-01aa-4e84-a830-1cffc67b2bd8",
+               "id": "42",
+               "name": "Patrones de diseño en Go",
+               "type": "url",
+               "url": "https://refactoring.guru/es/design-patterns/go"
+            }, {
+               "date_added": "13315289754000000",
+               "date_last_used": "0",
+               "guid": "62d0e115-3b71-400e-b628-cad9fe511afe",
+               "id": "43",
+               "name": "(1815) tomas lingotti - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@tomaslingotti/videos"
+            }, {
+               "date_added": "13315366622000000",
+               "date_last_used": "0",
+               "guid": "34e61da6-ff3d-4c2c-ad7a-7a8e0106dd32",
+               "id": "44",
+               "name": "Untitled - dbdiagram.io",
+               "type": "url",
+               "url": "https://dbdiagram.io/d"
+            }, {
+               "date_added": "13315529791000000",
+               "date_last_used": "0",
+               "guid": "a317a8bb-234e-4e81-b21b-95a8b51e112a",
+               "id": "45",
+               "name": "Abstract Factory en Go / Patrones de diseño",
+               "type": "url",
+               "url": "https://refactoring.guru/es/design-patterns/abstract-factory/go/example#example-0"
+            }, {
+               "date_added": "13316380543000000",
+               "date_last_used": "0",
+               "guid": "cacaeb7e-b681-4de3-92f0-7a10c2771b66",
+               "id": "46",
+               "name": "Vertical Bar Chart | react-chartjs-2",
+               "type": "url",
+               "url": "https://react-chartjs-2.js.org/examples/vertical-bar-chart"
+            }, {
+               "date_added": "13316932356000000",
+               "date_last_used": "0",
+               "guid": "a3551b2b-2558-4eeb-97e2-908c09169f53",
+               "id": "47",
+               "name": "ebook - The C Programming Language Ritchie & kernighan -.doc",
+               "type": "url",
+               "url": "file:///home/osmait/Downloads/the-c-programming-language.pdf"
+            }, {
+               "date_added": "13317091219000000",
+               "date_last_used": "0",
+               "guid": "8418e240-7658-4756-9729-153beed12566",
+               "id": "48",
+               "name": "Algoritmos a fondo: con implementaciones en C y Java",
+               "type": "url",
+               "url": "http://www.inacap.cl/web/material-apoyo-cedem/alumno/Electricidad/Algoritmos_a_fondo_con_implementacion_en_c_y_java.pdf"
+            }, {
+               "date_added": "13317091279000000",
+               "date_last_used": "13327276648947921",
+               "guid": "eb67f9b0-111b-4674-abf2-a429ea12a779",
+               "id": "49",
+               "name": "El-lenguaje-de-programacion-C-2-ed-kernighan-amp-ritchie.pdf",
+               "type": "url",
+               "url": "https://frrq.cvg.utn.edu.ar/pluginfile.php/13741/mod_resource/content/0/El-lenguaje-de-programacion-C-2-ed-kernighan-amp-ritchie.pdf"
+            }, {
+               "date_added": "13317096680000000",
+               "date_last_used": "13327276655827260",
+               "guid": "238bb054-5503-4593-9d99-89523bbc4134",
+               "id": "50",
+               "name": "The Algorithms",
+               "type": "url",
+               "url": "https://the-algorithms.com/es"
+            }, {
+               "date_added": "13317100268000000",
+               "date_last_used": "13321672560373782",
+               "guid": "3f7313c0-3b74-443c-aa94-114e4d34ce7a",
+               "id": "51",
+               "name": "(27) mycodeschool - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@mycodeschool/featured"
+            }, {
+               "date_added": "13317542363000000",
+               "date_last_used": "13328910660889121",
+               "guid": "bbafb0f9-a61b-409f-bba0-3365a0c60475",
+               "id": "52",
+               "name": "Roadmap",
+               "type": "url",
+               "url": "https://neetcode.io/roadmap"
+            }, {
+               "date_added": "13317616216000000",
+               "date_last_used": "13327214306492517",
+               "guid": "a7791ef8-3498-44f6-b24e-bf83ca302b4c",
+               "id": "53",
+               "name": "Refactorización y patrones de diseño",
+               "type": "url",
+               "url": "https://refactoring.guru/es"
+            }, {
+               "date_added": "13317689499000000",
+               "date_last_used": "0",
+               "guid": "921ea434-8ca6-45f9-b668-229bdaa30614",
+               "id": "54",
+               "name": "Patrones de diseño / Design patterns",
+               "type": "url",
+               "url": "https://refactoring.guru/es/design-patterns"
+            }, {
+               "date_added": "13317706528000000",
+               "date_last_used": "0",
+               "guid": "7526e7e5-461c-44ea-9148-46982f3901f7",
+               "id": "55",
+               "name": "Task List",
+               "type": "url",
+               "url": "https://www.notion.so/a53371b5e0804021be53c16228be7585?v=7c1cceb7733a4d1dbd50299c6677b1a0"
+            }, {
+               "date_added": "13317761315000000",
+               "date_last_used": "0",
+               "guid": "74b773d5-3321-4fc9-a732-4cfd8074464c",
+               "id": "56",
+               "name": "Mantine",
+               "type": "url",
+               "url": "https://mantine.dev/"
+            }, {
+               "date_added": "13317761363000000",
+               "date_last_used": "13328336242932110",
+               "guid": "5e1733b5-a57a-46d5-9223-179a62b51320",
+               "id": "57",
+               "name": "Excalidraw",
+               "type": "url",
+               "url": "https://excalidraw.com/"
+            }, {
+               "date_added": "13317763298000000",
+               "date_last_used": "0",
+               "guid": "ed947cdb-bee8-47a8-9ff6-e6fbc3bf77cc",
+               "id": "58",
+               "name": "CS50: Introduction to Computer Science | Harvard University",
+               "type": "url",
+               "url": "https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0"
+            }, {
+               "date_added": "13317764232000000",
+               "date_last_used": "0",
+               "guid": "dcd018dd-7bfe-44e0-8091-ee52c6fb0e12",
+               "id": "59",
+               "name": "Week 0 - Scratch | CS50x 2023 | CS50's Introduction to Computer Science | edX",
+               "type": "url",
+               "url": "https://learning.edx.org/course/course-v1:HarvardX+CS50+X/block-v1:HarvardX+CS50+X+type@sequential+block@a8730f85a9a94d41a784a58c4b6d8bdc/block-v1:HarvardX+CS50+X+type@vertical+block@1f7492083e40484ab19113154b509e6f"
+            }, {
+               "date_added": "13317782503000000",
+               "date_last_used": "0",
+               "guid": "ee7c8b8d-c103-4c5d-b833-92696e878907",
+               "id": "60",
+               "name": "32 Rust Projects [2023] [with source code]",
+               "type": "url",
+               "url": "https://iq.opengenus.org/rust-projects/"
+            }, {
+               "date_added": "13317783719000000",
+               "date_last_used": "0",
+               "guid": "85dd7f01-b151-451d-bb66-14b156f66f3b",
+               "id": "61",
+               "name": "sistemas_operativos.pdf",
+               "type": "url",
+               "url": "http://sistop.org/pdf/sistemas_operativos.pdf"
+            }, {
+               "date_added": "13317784179000000",
+               "date_last_used": "0",
+               "guid": "24d7b80b-6b01-4197-bc2e-55a8cf66278c",
+               "id": "62",
+               "name": "Introduction to Algorithms, Third Edition",
+               "type": "url",
+               "url": "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
+            }, {
+               "date_added": "13317784522000000",
+               "date_last_used": "0",
+               "guid": "369f34a6-33e2-40c3-8d81-19dc5d1d0687",
+               "id": "63",
+               "name": "true",
+               "type": "url",
+               "url": "https://www.fpbooks.cloud/books/675/675-computer-science-distilled-learn-the-art-of-solving-computational-problems-(www.tawcer.com).pdf"
+            }, {
+               "date_added": "13317787695000000",
+               "date_last_used": "0",
+               "guid": "9b75c51d-c525-4329-af89-3e058a9cc563",
+               "id": "64",
+               "name": "SLMT/rust-snake: A snake game written in Rust.",
+               "type": "url",
+               "url": "https://github.com/SLMT/rust-snake"
+            }, {
+               "date_added": "13318485861000000",
+               "date_last_used": "0",
+               "guid": "23a10a2d-1c31-47da-ab89-8921d2a660ea",
+               "id": "65",
+               "name": "clean_code.pdf",
+               "type": "url",
+               "url": "https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf"
+            }, {
+               "date_added": "13318876743000000",
+               "date_last_used": "0",
+               "guid": "e049a43e-9b7e-42f9-8a50-85914aed354c",
+               "id": "66",
+               "name": "https://theswissbay.ch/pdf/Gentoomen Library/Algorithms/Algorithms in C.pdf",
+               "type": "url",
+               "url": "https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithms%20in%20C.pdf"
+            }, {
+               "date_added": "13318894877000000",
+               "date_last_used": "0",
+               "guid": "43f4aef2-7c2c-41ac-a3f2-b6d7e638defa",
+               "id": "67",
+               "name": "(278) Coding With Dawid - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@CodingWithDawid/videos"
+            }, {
+               "date_added": "13318896771000000",
+               "date_last_used": "0",
+               "guid": "89674433-dfa2-48dd-8c57-c1647078111a",
+               "id": "68",
+               "name": "The C Programming Language (Second Edition)",
+               "type": "url",
+               "url": "http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf"
+            }, {
+               "date_added": "13319178409000000",
+               "date_last_used": "0",
+               "guid": "ecc74f33-da76-41e3-ae5f-a4a11e05457d",
+               "id": "69",
+               "name": "spring/sesiones_1_2_3/ob-spring-helloworld/src/main/java/com/example at main · Open-Bootcamp/spring",
+               "type": "url",
+               "url": "https://github.com/Open-Bootcamp/spring/tree/main/sesiones_1_2_3/ob-spring-helloworld/src/main/java/com/example"
+            }, {
+               "date_added": "13319760761000000",
+               "date_last_used": "0",
+               "guid": "4e20b7b6-95d0-4690-9bed-69991e187e19",
+               "id": "70",
+               "name": "Tailwind CSS Components Gallery",
+               "type": "url",
+               "url": "https://tailwindcomponents.com/components"
+            }, {
+               "date_added": "13319760865000000",
+               "date_last_used": "0",
+               "guid": "6a7be206-ab5d-4b86-bfdb-ae89d6f6e255",
+               "id": "71",
+               "name": "Tailwind CSS Cheat Sheet",
+               "type": "url",
+               "url": "https://tailwindcomponents.com/cheatsheet/"
+            }, {
+               "date_added": "13319931862000000",
+               "date_last_used": "0",
+               "guid": "fdb645e5-3c02-4e38-920a-e582d666e33d",
+               "id": "72",
+               "name": "JT/UI - Alertas",
+               "type": "url",
+               "url": "https://jt-ui.com/ui/alertas"
+            }, {
+               "date_added": "13320104982000000",
+               "date_last_used": "0",
+               "guid": "b9f8349b-591e-446d-84ba-c34600e337ff",
+               "id": "73",
+               "name": "Android Asset Studio - Launcher icon generator",
+               "type": "url",
+               "url": "https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=clipart&foreground.clipart=access_alarms&foreground.space.trim=1&foreground.space.pad=0.25&foreColor=rgb(244%2C%2067%2C%2054)&backColor=rgb(255%2C%20255%2C%20255)&crop=0&backgroundShape=circle&effects=none&name=ic_launcher"
+            }, {
+               "date_added": "13320126115000000",
+               "date_last_used": "0",
+               "guid": "ec372bb4-9ac5-4d3a-b8f5-3fd5ed718c83",
+               "id": "74",
+               "name": "Swapna Kumar Panda en Twitter: \"Save it for a lifetime ❯ SQL ➟ sqlbolt ❯ C ➟ learn-c ❯ C++ ➟ codecademy ❯ JavaScript ➟ javascript .info ❯ Python ➟ kaggle/python ❯ PHP ➟ learn-php ❯ Java ➟ codecademy ❯ C# ➟ learncs ❯ Kotlin ➟ codecademy ❯ Go ➟ learn-golang ❯ Swift ➟ codecademy\" / Twitter",
+               "type": "url",
+               "url": "https://twitter.com/swapnakpanda/status/1622198602948050946"
+            }, {
+               "date_added": "13320451817000000",
+               "date_last_used": "0",
+               "guid": "c4f33fde-df76-4f1a-a60f-8e7d6566017c",
+               "id": "75",
+               "name": "AkhilSharma90 (AkhilSharma90) / Repositories",
+               "type": "url",
+               "url": "https://github.com/AkhilSharma90?tab=repositories"
+            }, {
+               "date_added": "13320558676000000",
+               "date_last_used": "0",
+               "guid": "1f652c7c-d7d3-4658-b4d2-908a67ca5d4a",
+               "id": "76",
+               "name": "Dashboar Admin",
+               "type": "url",
+               "url": "https://dashboard-admin-bills.netlify.app/admin"
+            }, {
+               "date_added": "13320636322000000",
+               "date_last_used": "0",
+               "guid": "5539c20f-9ddb-400c-8950-f4676fdd3d0b",
+               "id": "77",
+               "name": "max-niederman/ttyper: Terminal-based typing test.",
+               "type": "url",
+               "url": "https://github.com/max-niederman/ttyper"
+            }, {
+               "date_added": "13320646456000000",
+               "date_last_used": "0",
+               "guid": "c2dcd9eb-3ac1-4a35-9c52-ddc0488259da",
+               "id": "78",
+               "name": "Modern C",
+               "type": "url",
+               "url": "https://hal.inria.fr/hal-02383654/file/ModernC.pdf"
+            }, {
+               "date_added": "13320647690000000",
+               "date_last_used": "0",
+               "guid": "3d6c4044-0a1b-4fb8-adfe-d99a80fa3e16",
+               "id": "79",
+               "name": "New chat",
+               "type": "url",
+               "url": "https://chat.openai.com/chat"
+            } ],
+            "date_added": "13321672521736174",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "514adedb-67c1-4ee1-96fe-398f72914a02",
+            "id": "32",
+            "name": "programacion",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13313271352000000",
+                  "date_last_used": "0",
+                  "guid": "21e3ffe5-53f4-46a0-b149-ced57721f0f2",
+                  "id": "82",
+                  "name": "Lectura Daily Routine Actions",
+                  "type": "url",
+                  "url": "https://static.platzi.com/media/public/uploads/lectura-daily-routine-actions_422d013c-b3ca-4768-8eef-6181846749a2.pdf"
+               }, {
+                  "date_added": "13313276685000000",
+                  "date_last_used": "0",
+                  "guid": "e53c53d4-7e31-4e55-bcd0-f20733093804",
+                  "id": "83",
+                  "name": "Lectura Grammar consolidation",
+                  "type": "url",
+                  "url": "https://static.platzi.com/media/public/uploads/grammar-consolidation_c0d77475-22ca-4269-8f48-c3da8d670a5f.pdf"
+               }, {
+                  "date_added": "13313269812000000",
+                  "date_last_used": "0",
+                  "guid": "63f6bab0-d773-427a-9ee8-420d169c4b02",
+                  "id": "84",
+                  "name": "Lectura Simple Present - Third person singular",
+                  "type": "url",
+                  "url": "https://static.platzi.com/media/public/uploads/simple-present-third-person-singular_cac11199-7ac4-4b96-a774-ce4946ebb771.pdf"
+               }, {
+                  "date_added": "13314318782000000",
+                  "date_last_used": "0",
+                  "guid": "77ab82f9-41a2-4dae-bb26-7ffc8915629c",
+                  "id": "85",
+                  "name": "Class 3 I didn't do that, dad.docx",
+                  "type": "url",
+                  "url": "https://static.platzi.com/media/public/uploads/class-3-i-didnt-do-that-dad-docx_7b521c33-2b96-4fe5-ab81-1dd5efdd1055.pdf"
+               }, {
+                  "date_added": "13314342349000000",
+                  "date_last_used": "0",
+                  "guid": "957b42c8-cd40-42d2-85fa-f09f666f963c",
+                  "id": "86",
+                  "name": "Gophercises - Coding exercises for budding gophers",
+                  "type": "url",
+                  "url": "https://gophercises.com/"
+               } ],
+               "date_added": "13321672521738554",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "d2ef4fc3-aee8-41c6-b323-bf0e4b96d42d",
+               "id": "81",
+               "name": "ingles",
+               "type": "folder"
+            }, {
+               "date_added": "13321166039000000",
+               "date_last_used": "0",
+               "guid": "62c7733b-3bcf-442a-965d-f039bb5da3d9",
+               "id": "87",
+               "name": "bgnet_usl_c_1.pdf",
+               "type": "url",
+               "url": "https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf"
+            }, {
+               "date_added": "13321250259000000",
+               "date_last_used": "0",
+               "guid": "ef6b52d9-3828-4aff-b547-7ec915e5212b",
+               "id": "88",
+               "name": "ArtStation - Mohamed Chahin",
+               "type": "url",
+               "url": "https://www.artstation.com/mchahin/albums/560597"
+            }, {
+               "date_added": "13321295052000000",
+               "date_last_used": "0",
+               "guid": "a30c7e3c-7943-41fb-bd86-b7330535f686",
+               "id": "89",
+               "name": "Best of January 2023 - XVIDEOS.COM",
+               "type": "url",
+               "url": "https://www.xvideos.com/best/2023-01"
+            }, {
+               "date_added": "13321483027000000",
+               "date_last_used": "0",
+               "guid": "a7d6a498-5adf-4161-8a85-440462c838a5",
+               "id": "90",
+               "name": "🗺 En qué orden hacer los cursos | Codely | Preguntas frecuentes",
+               "type": "url",
+               "url": "https://soporte.codely.com/es/articles/4187948-en-que-orden-hacer-los-cursos?utm_source=transactional&utm_medium=email&utm_campaign=user-subscribed"
+            }, {
+               "date_added": "13321504304000000",
+               "date_last_used": "13327277982040031",
+               "guid": "738506ad-05a3-4007-9d4b-7fc8359914d0",
+               "id": "91",
+               "name": "Tracks | CodeCrafters",
+               "type": "url",
+               "url": "https://app.codecrafters.io/tracks"
+            } ],
+            "date_added": "13321672521738536",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "1a0c1729-160e-451a-a906-709690d8705f",
+            "id": "80",
+            "name": "Imported",
+            "type": "folder"
+         }, {
+            "date_added": "13321981047257839",
+            "date_last_used": "0",
+            "guid": "9a1194d0-2e41-4bf9-8298-e0e79b970ff8",
+            "id": "93",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Junior Jobs Only - List of available Junior jobs",
+            "type": "url",
+            "url": "https://www.juniorjobsonly.com/jobs"
+         }, {
+            "date_added": "13322173885949552",
+            "date_last_used": "0",
+            "guid": "753c087b-4799-4447-b8fa-b59107382d2e",
+            "id": "95",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Página de Amazon de MoureDev by Brais Moure",
+            "type": "url",
+            "url": "https://www.amazon.es/shop/mouredev/list/2ZIHJJFJ9AVZ3"
+         }, {
+            "date_added": "13323138473458387",
+            "date_last_used": "0",
+            "guid": "9f401de2-caa7-4952-911e-fbe70af05dc9",
+            "id": "97",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "LEETCODE 1484 - Group Sold Products By The Date - Solution in MySQL",
+            "type": "url",
+            "url": "https://www.codeshikhi.com/2022/11/leetcode-1484-group-sold-products-by-the-date-solutions-in-mysql.html"
+         }, {
+            "date_added": "13323748262738331",
+            "date_last_used": "0",
+            "guid": "d51f0b50-08f6-49c4-ab84-1f3a5a254d7a",
+            "id": "99",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NextAuth.js",
+            "type": "url",
+            "url": "https://next-auth.js.org/"
+         }, {
+            "date_added": "13324420081756501",
+            "date_last_used": "0",
+            "guid": "83e5e497-016b-4aed-b75d-6337172b391c",
+            "id": "101",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AnimatiSS - A nice, colorful collection of CSS animations for your projects",
+            "type": "url",
+            "url": "https://xsgames.co/animatiss/"
+         }, {
+            "date_added": "13324617867320366",
+            "date_last_used": "0",
+            "guid": "777b9f93-c389-494c-836c-4fe50b59e162",
+            "id": "103",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Patterns.dev - Modern Web App Design Patterns",
+            "type": "url",
+            "url": "https://www.patterns.dev/"
+         }, {
+            "date_added": "13324881050427757",
+            "date_last_used": "0",
+            "guid": "05208429-f470-434d-b306-71a359f4013d",
+            "id": "105",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Patterns",
+            "type": "url",
+            "url": "https://www.patterns.dev/posts"
+         }, {
+            "date_added": "13325900292756452",
+            "date_last_used": "0",
+            "guid": "9c74beac-dcb3-496a-8173-2b62ce99b27e",
+            "id": "107",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Phind: AI search engine",
+            "type": "url",
+            "url": "https://www.phind.com/"
+         }, {
+            "date_added": "13325985116613143",
+            "date_last_used": "0",
+            "guid": "24e7564c-5d60-4a4b-9a11-a18d79696910",
+            "id": "109",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New chat",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13326848492586824",
+            "date_last_used": "0",
+            "guid": "577acb7b-7da3-44b8-baac-908293f8bf33",
+            "id": "111",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Software Engineering at Google",
+            "type": "url",
+            "url": "https://abseil.io/resources/swe-book/html/toc.html"
+         }, {
+            "date_added": "13327274424957930",
+            "date_last_used": "0",
+            "guid": "44953e75-54c0-43c5-aad3-ed67a7e41a23",
+            "id": "113",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Código limpio",
+            "type": "url",
+            "url": "https://ns2.elhacker.net/descargas/manuales/Lenguajes%20de%20Programacion/Codigo%20limpio%20-%20Robert%20Cecil%20Martin.pdf"
+         }, {
+            "date_added": "13327278082697495",
+            "date_last_used": "0",
+            "guid": "acda6a06-0fa4-49d4-9977-758d1a93ffe1",
+            "id": "114",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Exercism",
+            "type": "url",
+            "url": "https://exercism.org/"
+         }, {
+            "date_added": "13327727989776331",
+            "date_last_used": "0",
+            "guid": "270c384f-df32-4e0a-97c0-196068a77ee7",
+            "id": "116",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JSON to TypeScript • quicktype",
+            "type": "url",
+            "url": "https://quicktype.io/typescript"
+         }, {
+            "date_added": "13327861331068619",
+            "date_last_used": "13328498515164187",
+            "guid": "e5df90cc-df3d-49f7-9967-a4f0ede131d6",
+            "id": "118",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Upstash: Serverless Data for Redis® and Kafka®",
+            "type": "url",
+            "url": "https://upstash.com/"
+         }, {
+            "date_added": "13327865660746365",
+            "date_last_used": "13328498521465571",
+            "guid": "88c074e4-bcbc-463c-b9cb-5eb60dc02aeb",
+            "id": "119",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pricing — Neon",
+            "type": "url",
+            "url": "https://neon.tech/pricing"
+         }, {
+            "date_added": "13328143319205389",
+            "date_last_used": "0",
+            "guid": "2686c5f4-b402-431f-8f6d-c8047e4af07b",
+            "id": "121",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hop",
+            "type": "url",
+            "url": "https://hop.io/"
+         }, {
+            "date_added": "13328236604031714",
+            "date_last_used": "0",
+            "guid": "3aa240e5-98dd-48ac-a849-6530b26374a5",
+            "id": "123",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Data Structure Visualization",
+            "type": "url",
+            "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+         }, {
+            "date_added": "13328243404761191",
+            "date_last_used": "0",
+            "guid": "c133928d-9c57-474a-ae85-709cef0f76fc",
+            "id": "124",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "free-programming-books/free-programming-books-langs.md at main · EbookFoundation/free-programming-books",
+            "type": "url",
+            "url": "https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#go"
+         }, {
+            "date_added": "13328244381959034",
+            "date_last_used": "0",
+            "guid": "8e592a02-be15-48da-acad-04bb8612a336",
+            "id": "125",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation",
+            "type": "url",
+            "url": "https://book.systemsapproach.org/index.html"
+         }, {
+            "date_added": "13328490315161199",
+            "date_last_used": "13328571245798751",
+            "guid": "140f384b-be39-4fa2-b386-e5a2311c6f0c",
+            "id": "127",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pricing - ElevenLabs",
+            "type": "url",
+            "url": "https://beta.elevenlabs.io/speech-synthesis"
+         }, {
+            "date_added": "13328507434897080",
+            "date_last_used": "0",
+            "guid": "59969eb9-dcf5-4318-9b30-5ff71d997a18",
+            "id": "128",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "sirupsen/logrus: Structured, pluggable logging for Go.",
+            "type": "url",
+            "url": "https://github.com/sirupsen/logrus"
+         }, {
+            "date_added": "13328580619468891",
+            "date_last_used": "0",
+            "guid": "57ada1b2-05d7-4d31-bd49-18984c2e3e18",
+            "id": "130",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Operating System Concepts - 10th edition",
+            "type": "url",
+            "url": "https://www.os-book.com/OS10/index.html"
+         }, {
+            "date_added": "13328580749011270",
+            "date_last_used": "0",
+            "guid": "ffba68dd-6f3e-4204-bb23-83bbb9367881",
+            "id": "131",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Computer Networking : Principles, Protocols and Practice, 2nd edition — Computer Networking : Principles, Protocols and Practice",
+            "type": "url",
+            "url": "https://www.computer-networking.info/2nd/html/index.html"
+         }, {
+            "date_added": "13328596373834260",
+            "date_last_used": "0",
+            "guid": "b902af4d-a6c8-4cbe-a651-da8a83e214c7",
+            "id": "132",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "20:00 - Time to focus!",
+            "type": "url",
+            "url": "https://pomofocus.io/"
+         }, {
+            "date_added": "13328672463142444",
+            "date_last_used": "0",
+            "guid": "0de24a39-ad36-4228-ac63-151a1a454446",
+            "id": "134",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home",
+            "type": "url",
+            "url": "https://www.awseducate.com/student/s/"
+         }, {
+            "date_added": "13328911180025275",
+            "date_last_used": "0",
+            "guid": "af22e872-b5cd-4605-ab43-91ae7b432a0f",
+            "id": "136",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Rubular: a Ruby regular expression editor",
+            "type": "url",
+            "url": "https://rubular.com/"
+         }, {
+            "date_added": "13328999452634694",
+            "date_last_used": "0",
+            "guid": "f44a296f-e3da-4b17-8f35-74dbaf9313b7",
+            "id": "138",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "match - Rust By Example",
+            "type": "url",
+            "url": "https://doc.rust-lang.org/rust-by-example/flow_control/match.html"
+         } ],
+         "date_added": "13321665350053834",
+         "date_last_used": "0",
+         "date_modified": "13328999452634694",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13321665350053837",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13321665350053839",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

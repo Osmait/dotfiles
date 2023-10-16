@@ -1,0 +1,6 @@
+2023/04/23-18:22:12.136 514 Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_areajugones.sport.es_0.indexeddb.leveldb since it was missing.
+2023/04/23-18:22:12.140 514 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_areajugones.sport.es_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/23-18:23:17.360 1803a Level-0 table #5: started
+2023/04/23-18:23:17.361 1803a Level-0 table #5: 5835 bytes OK
+2023/04/23-18:23:17.364 1803a Delete type=0 #3
+2023/04/23-18:23:17.364 515 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

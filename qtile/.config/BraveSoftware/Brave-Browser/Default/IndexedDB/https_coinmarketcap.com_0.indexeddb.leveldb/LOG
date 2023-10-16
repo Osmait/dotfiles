@@ -1,0 +1,6 @@
+2023/04/11-17:35:50.814 4c7 Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_coinmarketcap.com_0.indexeddb.leveldb since it was missing.
+2023/04/11-17:35:50.820 4c7 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_coinmarketcap.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/11-17:36:33.001 4c8 Level-0 table #5: started
+2023/04/11-17:36:33.008 4c8 Level-0 table #5: 319171 bytes OK
+2023/04/11-17:36:33.010 4c8 Delete type=0 #3
+2023/04/11-17:36:33.010 4c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

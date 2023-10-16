@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "my store",
+            "database": "my_store",
+            "username": "osmait",
+            "password": "admin123"
+        }
+    ],
+    "files.associations": {
+        "uthash.h": "c",
+        "cstdlib": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}

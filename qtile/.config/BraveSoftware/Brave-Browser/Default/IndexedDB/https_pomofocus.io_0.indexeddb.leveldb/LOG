@@ -1,0 +1,7 @@
+2023/05/14-12:30:54.407 5b4 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pomofocus.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/14-12:30:54.407 5b4 Recovering log #3
+2023/05/14-12:30:54.408 5b4 Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pomofocus.io_0.indexeddb.leveldb/000003.log 
+2023/05/14-23:52:57.690 1bd7a Level-0 table #5: started
+2023/05/14-23:52:57.692 1bd7a Level-0 table #5: 5373 bytes OK
+2023/05/14-23:52:57.693 1bd7a Delete type=0 #3
+2023/05/14-23:52:57.693 1bd7a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

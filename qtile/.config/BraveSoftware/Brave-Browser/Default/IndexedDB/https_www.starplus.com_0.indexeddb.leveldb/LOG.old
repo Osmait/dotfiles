@@ -1,0 +1,15 @@
+2023/05/18-19:53:51.665 51d Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.starplus.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/18-19:53:51.665 51d Recovering log #79
+2023/05/18-19:53:51.665 51d Reusing old log /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.starplus.com_0.indexeddb.leveldb/000079.log 
+2023/05/18-19:53:53.825 51e Level-0 table #84: started
+2023/05/18-19:53:53.827 51e Level-0 table #84: 1235 bytes OK
+2023/05/18-19:53:53.828 51e Delete type=0 #79
+2023/05/18-19:53:53.829 51e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/18-19:53:53.829 51e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1791 : 1
+2023/05/18-19:53:53.829 51e Compacting 1@1 + 1@2 files
+2023/05/18-19:53:53.831 51e Generated table #85@1: 87 keys, 1655 bytes
+2023/05/18-19:53:53.831 51e Compacted 1@1 + 1@2 files => 1655 bytes
+2023/05/18-19:53:53.832 51e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/18-19:53:53.833 51e Delete type=2 #84
+2023/05/18-19:53:53.833 51e Delete type=2 #81
+2023/05/18-19:53:53.833 51e Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1791 : 1 .. (end); will stop at (end)

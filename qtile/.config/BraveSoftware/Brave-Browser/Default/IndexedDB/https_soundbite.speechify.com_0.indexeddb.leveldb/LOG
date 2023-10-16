@@ -1,0 +1,6 @@
+2023/04/20-17:17:33.111 661 Creating DB /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_soundbite.speechify.com_0.indexeddb.leveldb since it was missing.
+2023/04/20-17:17:33.116 661 Reusing MANIFEST /home/osmait/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_soundbite.speechify.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/20-17:18:38.940 662 Level-0 table #5: started
+2023/04/20-17:18:38.942 662 Level-0 table #5: 2009 bytes OK
+2023/04/20-17:18:38.943 662 Delete type=0 #3
+2023/04/20-17:18:38.944 662 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
