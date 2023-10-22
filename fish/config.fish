@@ -32,7 +32,7 @@ set -Ux FZF_CTRL_R_OPTS "--border-label=' history ' \
 set -gx PATH "/home/osmait/.local/share/fnm" $PATH
 eval (fnm env)
 
-set fish_greeting "󰣇 Osmait 󱘗  󰛦   saludo
+set fish_greeting "󰣇 Osmait 󱘗  󰛦  
   _____                       _        _____                 
  / ___ \                     (_) _    (____ \                
 | |   | |  ___  ____    ____  _ | |_   _   \ \   ____  _   _ 
