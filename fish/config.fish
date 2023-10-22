@@ -12,6 +12,8 @@ set -x PATH $PATH $GOBIN $GOROOT/bin
 set -x DENO_INSTALL "/home/osmait/.deno"
 set -x PATH $DENO_INSTALL/bin $PATH
 
+set -x fish_user_paths $fish_user_paths $HOME/.local/bin
+
 set -Ux FZF_DEFAULT_OPTS "\
 --reverse \
 --border rounded \
@@ -30,7 +32,7 @@ set -Ux FZF_CTRL_R_OPTS "--border-label=' history ' \
 set -gx PATH "/home/osmait/.local/share/fnm" $PATH
 eval (fnm env)
 
-set fish_greeting "󰣇 Osmait 󱘗  󰛦  
+set fish_greeting "󰣇 Osmait 󱘗  󰛦   saludo
   _____                       _        _____                 
  / ___ \                     (_) _    (____ \                
 | |   | |  ___  ____    ____  _ | |_   _   \ \   ____  _   _ 
