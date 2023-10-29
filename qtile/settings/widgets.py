@@ -1,9 +1,11 @@
-from libqtile import widget
+from libqtile import widget, qtile
 from .theme import colors
+
 
 # Get the icons at https://www.nerdfonts.com/cheat-sheet (you need a Nerd Font)
 
-def base(fg='text', bg='dark'): 
+
+def base(fg='text', bg='dark'):
     return {
         'foreground': colors[fg],
         'background': colors[bg]
@@ -26,13 +28,13 @@ def icon(fg='text', bg='dark', fontsize=16, text="?"):
 def powerline(fg="light", bg="dark"):
     return widget.TextBox(
         **base(fg, bg),
-        text="", # Icon: nf-oct-triangle_left
+        text="",  # Icon: nf-oct-triangle_left
         fontsize=37,
         padding=-2
     )
 
 
-def workspaces(): 
+def workspaces():
     return [
         separator(),
         widget.GroupBox(
@@ -69,8 +71,8 @@ primary_widgets = [
 
     powerline('color4', 'dark'),
 
-    icon(bg="color4", text=' '), # Icon: nf-fa-download
-    
+    icon(bg="color4", text=' '),  # Icon: nf-fa-download
+
     widget.CheckUpdates(
         background=colors['color4'],
         colour_have_updates=colors['text'],
@@ -84,7 +86,7 @@ primary_widgets = [
     powerline('color3', 'color4'),
 
     icon(bg="color3", text=' '),  # Icon: nf-fa-feed
-    
+
     widget.Net(**base(bg='color3'), interface='wlp2s0'),
 
     powerline('color2', 'color3'),
@@ -95,14 +97,21 @@ primary_widgets = [
 
     powerline('color1', 'color2'),
 
-    icon(bg="color1", fontsize=17, text=' '), # Icon: nf-mdi-calendar_clock
 
+    widget.Memory(**base(bg='color1'),
+                  mouse_callbacks={
+                      'Button1': lambda: qtile.cmd_spawn('alacritty -e htop')},
+                  format='{MemUsed: .0f}{mm}',
+                  fmt='🖥   Mem: {} '),
+    widget.CPU(**base(bg='color1'),
+               format='󰍛 CPU {load_percent}%'),
+
+
+
+    icon(bg="color1", fontsize=17, text=' '),  # Icon: nf-mdi-calendar_clock
     widget.Clock(**base(bg='color1'), format='%d/%m/%Y - %H:%M '),
-    widget.Memory(**base(bg='color1')),
 
     powerline('dark', 'color1'),
-
-    widget.Systray(background=colors['dark'], padding=5),
 ]
 
 secondary_widgets = [
@@ -119,7 +128,17 @@ secondary_widgets = [
     powerline('color2', 'color1'),
 
     widget.Clock(**base(bg='color2'), format='%d/%m/%Y - %H:%M '),
-    widget.DF(),
+    widget.DF(
+        **base(bg='color2'),
+        update_interval=60,
+        mouse_callbacks={
+            'Button1': lambda: qtile.cmd_spawn('alacritty -e df')},
+        partition='/',
+        # format = '[{p}] {uf}{m} ({r:.0f}%)',
+        format='{uf}{m} free',
+        fmt='🖴  Disk: {}',
+        visible_on_warn=False,
+    ),
 
     powerline('dark', 'color2'),
 ]
@@ -129,4 +148,5 @@ widget_defaults = {
     'fontsize': 14,
     'padding': 1,
 }
+extension_defaults = widget_defaults.copy()
 extension_defaults = widget_defaults.copy()
