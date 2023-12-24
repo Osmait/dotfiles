@@ -49,7 +49,7 @@ keys = [
         # File Explorer
         ([mod], "e", lazy.spawn("thunar")),
         # Terminal
-        ([mod], "Return", lazy.spawn("kitty --start-as fullscreen")),
+        ([mod], "Return", lazy.spawn("kitty")),
         # Redshift
         ([mod], "r", lazy.spawn("redshift -O 2400")),
         ([mod, "shift"], "r", lazy.spawn("redshift -x")),
