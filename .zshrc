@@ -177,3 +177,8 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+[ -f "/home/osmait/.ghcup/env" ] && source "/home/osmait/.ghcup/env" # ghcup-env
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
