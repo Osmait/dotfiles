@@ -6,12 +6,13 @@
 set -x GOPATH $HOME/go
 set -x GOBIN $GOPATH/bin
 set -x GOROOT /usr/local/go
-
+set -x PATH "$HOME/.cabal/bin" "$HOME/.ghcup/bin" $PATH
 set -x PATH $PATH $GOBIN $GOROOT/bin
 
 set -x DENO_INSTALL "/home/osmait/.deno"
 set -x PATH $DENO_INSTALL/bin $PATH
-
+set -x BUN_INSTALL "/home/osmait/.bun"
+set -x PATH "$BUN_INSTALL/bin:$PATH"
 set -x fish_user_paths $fish_user_paths $HOME/.local/bin
 
 set -Ux FZF_DEFAULT_OPTS "\
@@ -59,9 +60,10 @@ if status is-interactive
     fish_add_path ~/.tmux/plugins/t-smart-tmux-session-manager/bin
     zoxide init fish | source
     # ls
-    alias l 'ls -lh'
+    alias l 'exa -l'
     alias ll 'ls -lah'
-    alias la 'ls -A'
+    alias la 'exa -l -a'
+    alias lt 'exa -T'
     alias lm 'ls -m'
     alias lr 'ls -R'
     alias lg 'ls -l --group-directories-first'
