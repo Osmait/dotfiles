@@ -6,13 +6,22 @@
 set -x GOPATH $HOME/go
 set -x GOBIN $GOPATH/bin
 set -x GOROOT /usr/local/go
-set -x PATH "$HOME/.cabal/bin" "$HOME/.ghcup/bin" $PATH
 set -x PATH $PATH $GOBIN $GOROOT/bin
 
+set -x PATH "$HOME/.cabal/bin" "$HOME/.ghcup/bin" $PATH
+
+# set -x ANDROID_HOME $HOME/Android/Sdk
+# set -x ANDROID_SDK_ROOT $ANDROID_HOME
+# set -x ANDROID_AVD_HOME $HOME/.android/avd
+# set -x PATH $PATH:$ANDROID_SDK_ROOT/platform-tools/$ANDROID_AVD_HOME
+# set -x PATH $ANDROID_SDK_ROOT/emulator:$ANDROID_SDK_ROOT/tools:$PATH
+#
 set -x DENO_INSTALL "/home/osmait/.deno"
 set -x PATH $DENO_INSTALL/bin $PATH
+
 set -x BUN_INSTALL "/home/osmait/.bun"
 set -x PATH "$BUN_INSTALL/bin:$PATH"
+
 set -x fish_user_paths $fish_user_paths $HOME/.local/bin
 
 set -Ux FZF_DEFAULT_OPTS "\

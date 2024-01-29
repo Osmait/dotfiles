@@ -1,8 +1,17 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export ANDROID_AVD_HOME:/home/osmait/\x2eandroid/avd
+SETUVAR --export ANDROID_HOME:/home/osmait/Android/Sdk
+SETUVAR --export ANDROID_SDK_ROOT:/opt/android\x2dsdk
+SETUVAR --export BUN_INSTALL:/home/osmait/\x2ebun
+SETUVAR --export DENO_INSTALL:/home/osmait/\x2edeno
 SETUVAR --export FZF_CTRL_R_OPTS:\x2d\x2dborder\x2dlabel\x3d\x27\x20history\x20\x27\x20\x2d\x2dprompt\x3d\x27\uea82\x20\x20\x27
 SETUVAR --export FZF_DEFAULT_OPTS:\x2d\x2dreverse\x20\x2d\x2dborder\x20rounded\x20\x2d\x2dno\x2dinfo\x20\x2d\x2dpointer\x3d\x27\uf061\x20\x27\x20\x2d\x2dmarker\x3d\x27\uf02e\x20\x27\x20\x2d\x2dansi\x20\x2d\x2dcolor\x3d\x2716\x2cbg\x2b\x3a\x2d1\x2cgutter\x3a\x2d1\x2cprompt\x3a5\x2cpointer\x3a5\x2cmarker\x3a6\x2cborder\x3a4\x2clabel\x3a4\x2cheader\x3aitalic\x27
 SETUVAR --export FZF_TMUX_OPTS:\x2dp\x2055\x25\x2c60\x25
+SETUVAR --export GOBIN:/home/osmait/go/bin
+SETUVAR --export --path GOPATH:/home/osmait/go
+SETUVAR --export GOROOT:/usr/local/go
+SETUVAR --export --path PATH:/home/osmait/\x2ebun/bin\x1e/home/osmait/\x2etmux/plugins/t\x2dsmart\x2dtmux\x2dsession\x2dmanager/bin\x1e/home/osmait/\x2epyenv/bin\x1e/home/osmait/bin\x1e/home/osmait/\x2elocal/bin\x1e/home/osmait/\x2elocal/share/nvim/mason/bin\x1e/run/user/1000/fnm_multishells/21352_1704218937024/bin\x1e/home/osmait/\x2elocal/share/fnm\x1e/run/user/1000/fnm_multishells/21034_1704218934394/bin\x1e/home/osmait/\x2elocal/share/fnm\x1e/home/osmait/\x2ecargo/bin\x1e/sbin\x1e/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/bin\x1e/usr/sbin\x1e/opt/android\x2dsdk/cmdline\x2dtools/latest/bin\x1e/opt/android\x2dsdk/platform\x2dtools\x1e/opt/android\x2dsdk/tools\x1e/opt/android\x2dsdk/tools/bin\x1e/opt/cuda/bin\x1e/opt/cuda/nsight_compute\x1e/opt/cuda/nsight_systems/bin\x1e/opt/flutter/bin\x1e/usr/lib/jvm/default/bin\x1e/usr/bin/site_perl\x1e/usr/bin/vendor_perl\x1e/usr/bin/core_perl
 SETUVAR --export PYENV_ROOT:/home/osmait/\x2epyenv
 SETUVAR __fish_initialized:3400
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
