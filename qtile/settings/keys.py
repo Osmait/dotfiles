@@ -46,6 +46,7 @@ keys = [
         ([mod, "shift"], "m", lazy.spawn("rofi -show")),
         # Browser
         ([mod], "b", lazy.spawn("brave")),
+        ([mod], "f", lazy.window.toggle_fullscreen()),
         # File Explorer
         ([mod], "e", lazy.spawn("thunar")),
         # Terminal

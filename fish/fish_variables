@@ -2,7 +2,7 @@
 # VERSION: 3.0
 SETUVAR --export ANDROID_AVD_HOME:/home/osmait/\x2eandroid/avd
 SETUVAR --export ANDROID_HOME:/home/osmait/Android/Sdk
-SETUVAR --export ANDROID_SDK_ROOT:/opt/android\x2dsdk
+SETUVAR --export ANDROID_SDK_ROOT:/home/osmait/Android/Sdk
 SETUVAR --export BUN_INSTALL:/home/osmait/\x2ebun
 SETUVAR --export DENO_INSTALL:/home/osmait/\x2edeno
 SETUVAR --export FZF_CTRL_R_OPTS:\x2d\x2dborder\x2dlabel\x3d\x27\x20history\x20\x27\x20\x2d\x2dprompt\x3d\x27\uea82\x20\x20\x27

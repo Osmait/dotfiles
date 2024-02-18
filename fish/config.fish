@@ -10,12 +10,7 @@ set -x PATH $PATH $GOBIN $GOROOT/bin
 
 set -x PATH "$HOME/.cabal/bin" "$HOME/.ghcup/bin" $PATH
 
-# set -x ANDROID_HOME $HOME/Android/Sdk
-# set -x ANDROID_SDK_ROOT $ANDROID_HOME
-# set -x ANDROID_AVD_HOME $HOME/.android/avd
-# set -x PATH $PATH:$ANDROID_SDK_ROOT/platform-tools/$ANDROID_AVD_HOME
-# set -x PATH $ANDROID_SDK_ROOT/emulator:$ANDROID_SDK_ROOT/tools:$PATH
-#
+
 set -x DENO_INSTALL "/home/osmait/.deno"
 set -x PATH $DENO_INSTALL/bin $PATH
 
@@ -41,6 +36,13 @@ set -Ux FZF_CTRL_R_OPTS "--border-label=' history ' \
 # fnm
 set -gx PATH "/home/osmait/.local/share/fnm" $PATH
 eval (fnm env)
+
+set -x ANDROID_HOME $HOME/Android/Sdk
+set -x ANDROID_SDK_ROOT $ANDROID_HOME
+set -x ANDROID_AVD_HOME $HOME/.android/avd
+# set -x PATH $PATH:$ANDROID_SDK_ROOT/platform-tools/$ANDROID_AVD_HOME
+set -x PATH $ANDROID_SDK_ROOT/emulator:$ANDROID_SDK_ROOT/tools:$PATH
+
 
 set fish_greeting "󰣇 Osmait 󱘗  󰛦  
   _____                       _        _____                 
