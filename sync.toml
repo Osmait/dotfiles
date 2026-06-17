@@ -1,0 +1,100 @@
+# dots manifest — https://github.com/osmait/dotfiles
+# Generated for this repo's current layout (flat structure).
+# Apply with:  dots apply --repo ~/dotfiles --profile desktop-linux
+# (dots backs up any existing file/dir before creating a symlink.)
+
+[meta]
+version = 1
+default_branch = "master"
+
+[vars]
+editor = "nvim"
+
+# ---- Profiles -------------------------------------------------------------
+# A profile is what gets APPLIED (symlinked) on this machine. Packages defined
+# below but not listed in the active profile stay in the repo, unapplied — so the
+# repo can hold everything while each machine only links what it actually uses.
+#
+# daily: what is actually in use right now (shells + tmux). This is the default.
+[profile.daily]
+platforms = ["linux", "wsl"]
+packages = [
+  "hypr", 
+  "nvim", "fish", "tmux", "gitmux"]
+
+# ---- Shell ----------------------------------------------------------------
+[package.fish]
+source = "fish"
+target = "~/.config/fish"
+ignore_platforms = ["linux"]   # keep fish in the repo, but don't sync it on linux
+
+# ---- Terminal multiplexer -------------------------------------------------
+[package.tmux]
+source = ".tmux.conf"
+target = "~/.tmux.conf"
+
+[package.gitmux]
+source = ".gitmux.conf"
+target = "~/.gitmux.conf"
+
+# ---- Provisioning: developer toolchains (user-space, no sudo) --------------
+# Run from the TUI with `i`. If a language is already present the check passes
+# and nothing is installed. On a fresh machine, after installing, make sure
+# these are on PATH:  ~/.cargo/bin  ~/.local/bin  ~/.local/go/bin  ~/.local/zig
+
+[provision.tpm]
+description = "tmux plugin manager (TPM) into ~/.tmux/plugins/tpm"
+check       = "test -d \"$HOME/.tmux/plugins/tpm\""
+install     = "git clone https://github.com/tmux-plugins/tpm \"$HOME/.tmux/plugins/tpm\""
+
+[provision.rust]
+description = "Rust toolchain via rustup"
+check       = "command -v rustc"
+install     = "curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y"
+
+[provision.fnm]
+description = "fnm (Node version manager)"
+check       = "command -v fnm"
+install     = "curl -fsSL https://fnm.vercel.app/install | bash"
+
+[provision.node]
+description = "Node.js LTS via fnm"
+check       = "command -v node"
+install     = "export PATH=\"$HOME/.local/share/fnm:$PATH\" && fnm install --lts && fnm default lts-latest"
+
+[provision.python]
+description = "Python toolchain via uv (uv + latest CPython)"
+check       = "command -v uv"
+install     = "curl -LsSf https://astral.sh/uv/install.sh | sh && \"$HOME/.local/bin/uv\" python install"
+
+[provision.golang]
+description = "Go toolchain"
+check       = "command -v go || test -x \"$HOME/.local/go/bin/go\""
+# default/fallback (no sudo): official tarball into ~/.local/go
+install     = "ver=$(curl -fsSL \"https://go.dev/VERSION?m=text\" | head -1) && mkdir -p \"$HOME/.local\" && rm -rf \"$HOME/.local/go\" && curl -fsSL \"https://go.dev/dl/$ver.linux-amd64.tar.gz\" | tar -C \"$HOME/.local\" -xzf -"
+
+# per-system installers (override the default; need sudo/brew → run via `dots provision golang`)
+[provision.golang.os.linux]
+check   = "command -v go"
+install = "sudo pacman -S --needed --noconfirm go"
+
+[provision.golang.os.macos]
+check   = "command -v go"
+install = "brew install go"
+
+[provision.zig]
+description = "Zig (latest stable) into ~/.local/zig"
+platforms   = ["linux", "wsl"]
+check       = "command -v zig || test -x \"$HOME/.local/zig/zig\""
+install     = "url=$(curl -fsSL https://ziglang.org/download/index.json | jq -r '[to_entries[]|select(.key!=\"master\")][0].value[\"x86_64-linux\"].tarball') && rm -rf \"$HOME/.local/zig\" && mkdir -p \"$HOME/.local/zig\" && curl -fsSL \"$url\" | tar -C \"$HOME/.local/zig\" --strip-components=1 -xJf -"
+
+# ---- Desktop (X11) --------------------------------------------------------
+
+
+[package.nvim]
+source = "nvim"
+target = "~/.config/nvim"
+
+[package.hypr]
+source = "hypr"
+target = "~/.config/hypr"
